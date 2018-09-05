@@ -1,0 +1,34 @@
+[
+  {
+    "id": "bbf41d24-70fa-4a3a-96b9-8942ab3e65dc",
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "jdoe@email.com",
+    "phoneNumber": "619-555-1111",
+    "occupation": "Teacher"
+  },
+  {
+    "id": "34bbf7a6-aa04-4186-ae2e-3ef9cfe33800",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jsmith@mail.com",
+    "phoneNumber": "619-555-2222",
+    "occupation": "Paralegal"
+  },
+  {
+    "id": "d5c81cea-5738-42a8-8a30-918a0b873ef2",
+    "firstName": "Peter",
+    "lastName": "Chen",
+    "email": "peter.chen@geemail.com",
+    "phoneNumber": "619-555-3333",
+    "occupation": "Pharmacist"
+  },
+  {
+    "id": "cac88cfe-797f-4e8e-9f56-f9e11ea79e98",
+    "firstName": "Daniela",
+    "lastName": "Martinez",
+    "email": "daniela619@correo.com",
+    "phoneNumber": "619-555-4444",
+    "occupation": "Teacher"
+  }
+]
